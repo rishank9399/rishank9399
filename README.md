@@ -62,7 +62,7 @@
 * Low-latency peer-to-peer video chat system
 * Efficient session & signaling management
 
-🔗 https://github.com/rishank9399/omegle-clone
+🔗 https://github.com/rishank9399/Omegle_Clone
 
 ---
 
