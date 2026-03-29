@@ -109,9 +109,9 @@
 
 <p align="center">
 <a href="https://www.rishankgupta.dev/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"></a>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/rishankgupta/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:Rishank123g@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
-<a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"></a>
+<a href="https://x.com/Rishank_Gupta__"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x"></a>
 </p>
 
 ---
