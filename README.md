@@ -46,13 +46,19 @@
 
 ## 🚀 Featured Projects
 
-### 🎬 DevTube (YouTube Clone)
+### 🛒 Aetheria — Scalable E-Commerce Backend Platform
 
-* Backend-driven video platform with **OAuth authentication**
-* Features: uploads, likes, subscriptions, comments
-* Optimized media delivery using **ImageKit + Bunny CDN**
+* Architected a **production-grade distributed e-commerce backend** using **Node.js, Express, MongoDB, and Redis**
+* Designed secure authentication infrastructure with **JWT access/refresh token rotation, token blacklisting, RBAC, and session protection**
+* Engineered **transaction-safe order workflows** using MongoDB transactions to maintain consistency across carts, orders, payments, and inventory lifecycle
+* Implemented **Redis caching + sliding window rate limiting** to optimize API throughput and mitigate abuse under high request loads
+* Built scalable REST APIs featuring **advanced filtering, pagination, sorting, search, and modular controller-service architecture**
+* Developed **payment orchestration workflows**, cart lifecycle management, delivery state transitions, and review systems
+* Optimized backend performance with **query indexing, middleware optimization, and cache-first retrieval strategies**
+* Designed for **high concurrency request handling**, resilient transaction execution, and production deployment scalability
 
-🔗 https://github.com/rishank9399/devtube
+🔗 Repo: https://github.com/rishank9399/Ecommerce_Backend
+🌐 Live: https://aetheria-ecommerce.vercel.app/
 
 ---
 
@@ -60,9 +66,10 @@
 
 * Built using **WebRTC + Socket.IO**
 * Low-latency peer-to-peer video chat system
-* Efficient session & signaling management
+* Real-time signaling, session handling, and connection lifecycle management
 
-🔗 https://github.com/rishank9399/Omegle_Clone
+🔗 Repo: https://github.com/rishank9399/Omegle_Clone
+🌐 Live: https://omegle-clone-geeo.onrender.com/
 
 ---
 
@@ -73,7 +80,6 @@
 * Focused on scalable backend architecture
 
 🔗 https://www.sociobhaarat.com
-
 ---
 
 ## 📊 GitHub Analytics
